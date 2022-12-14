@@ -16,3 +16,7 @@
     margin: 0 8px;
     display: inline-block;
 }
+.modal-footer{
+    text-align: center;
+    overflow: hidden;
+}
